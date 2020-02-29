@@ -1,0 +1,216 @@
+{
+  "campsites": [
+    {
+      "id": 0,
+      "name": "House Special Banh Mi",
+      "image": "images/sandwhich1.jpg",
+      "elevation": 1233,
+      "featured": false,
+      "description": "Ingredients - Headcheese and Pâté, House Pickle (Daikon & Carrot), Onion, Jalapeno, Cilantro, Salt & Pepper, Soy Sauce, and House Mayonnaise "
+    },
+    {
+      "id": 1,
+      "name": "B.B.Q. Pork ",
+      "image": "images/sandwhich3.jpg",
+      "elevation": 877,
+      "featured": false,
+      "description": "Ingredients - House Pickle (Daikon & Carrot), Onion, Jalapeno, Cilantro, Salt & Pepper, Soy Sauce, and House Mayonnaise "
+    },
+    {
+      "id": 2,
+      "name": "Grilled Chicken ",
+      "image": "images/sandwhich4.jpg",
+      "elevation": 2901,
+      "featured": false,
+      "description": "Ingredients - House Pickle (Daikon & Carrot), Onion, Jalapeno, Cilantro, Salt & Pepper, Soy Sauce, and House Mayonnaise "
+    },
+    {
+      "id": 3,
+      "name": "Cured Pork",
+      "image": "images/sandwhich2.jpg",
+      "elevation": 42,
+      "featured": true,
+      "description": "Ingredients - House Pickle (Daikon & Carrot), Onion, Jalapeno, Cilantro, Salt & Pepper, Soy Sauce, and House Mayonnaise "
+    }
+  ],
+
+  "coffee": [
+    {
+      "id": 0,
+      "name": "Ice Coffee",
+      "image": "images/Cicercoffee.jpg",
+      "elevation": 1233,
+      "featured": false,
+      "description": "Ingredients - Headcheese and Pâté, House Pickle (Daikon & Carrot), Onion, Jalapeno, Cilantro, Salt & Pepper, Soy Sauce, and House Mayonnaise "
+    }
+  ],
+
+  "comments": [
+    {
+      "id": 0,
+      "campsiteId": 0,
+      "rating": 5,
+      "text": "Yummy",
+      "author": "Hohn Lee",
+      "date": "2018-01-03"
+    },
+    {
+      "id": 1,
+      "campsiteId": 0,
+      "rating": 3,
+      "text": "Tasted good",
+      "author": "Mike Jone",
+      "date": "2018-05-17"
+    },
+    {
+      "id": 2,
+      "campsiteId": 0,
+      "rating": 5,
+      "text": "Would get it again ",
+      "author": "Johnny John",
+      "date": "2018-06-01"
+    },
+    {
+      "id": 3,
+      "campsiteId": 0,
+      "rating": 5,
+      "text": "tasted good ",
+      "author": "nate len",
+      "date": "2018-09-15"
+    },
+
+    {
+      "id": 5,
+      "campsiteId": 1,
+      "rating": 4,
+      "text": "Love it and will come back for more",
+      "author": "Brandon Lee",
+      "date": "2017-01-17"
+    },
+    {
+      "id": 6,
+      "campsiteId": 1,
+      "rating": 5,
+      "text": "I come here to eat every day for the last 20 year.",
+      "author": "Ozarka water",
+      "date": "2019-02-12"
+    },
+    {
+      "id": 7,
+      "campsiteId": 1,
+      "rating": 5,
+      "text": "can't get the food out of my mind",
+      "author": "Salt Pepper",
+      "date": "2019-07-09T"
+    },
+    {
+      "id": 10,
+      "campsiteId": 2,
+      "rating": 2,
+      "text": "Food was okay and expensive ",
+      "author": "Lisa Cup",
+      "date": "2020-01-11"
+    },
+    {
+      "id": 11,
+      "campsiteId": 2,
+      "rating": 5,
+      "text": "A wonderful place to reconnect with nature.",
+      "author": "Jordan Runn",
+      "date": "2019-08-04T20:11Z"
+    },
+    {
+      "id": 12,
+      "campsiteId": 2,
+      "rating": 4,
+      "text": "The stars at night were a revelation!",
+      "author": "Ann Dabramov",
+      "date": "2018-07-23T19:44Z"
+    },
+    {
+      "id": 13,
+      "campsiteId": 2,
+      "rating": 5,
+      "text": "What a magnificent view!",
+      "author": "Tinus Lorvaldes",
+      "date": "2018-10-25T16:30Z"
+    },
+    {
+      "id": 14,
+      "campsiteId": 2,
+      "rating": 4,
+      "text": "The campground was beautiful, but the bugs could bite sometimes.",
+      "author": "Brennen Ech",
+      "date": "2017-06-17T03:33Z"
+    },
+    {
+      "id": 15,
+      "campsiteId": 3,
+      "rating": 5,
+      "text": "Love this place",
+      "author": "Fan Jordan",
+      "date": "2019-08-30"
+    },
+    {
+      "id": 16,
+      "campsiteId": 3,
+      "rating": 4,
+      "text": "the staff was nice",
+      "author": "Ann Lee",
+      "date": "2018-07-19"
+    }
+
+  ],
+  "partners": [
+    {
+      "id": 0,
+      "name": "Monday - Tuesday",
+      "image": "images/panda.png",
+      "featured": false,
+      "description": "8 AM to 7 PM"
+    },
+    {
+      "id": 1,
+      "name": "Wednesday - Thursday",
+      "image": "images/Cicecoffee.png",
+      "featured": false,
+      "description": "9 AM to 4 PM"
+    },
+    {
+      "id": 2,
+      "name": "Friday - Saturday",
+      "image": "images/banhmi-info.jpg",
+      "featured": false,
+      "description": "10 AM to 3 3PM"
+    },
+    {
+      "id": 3,
+      "name": "Sunday",
+      "image": "images/che3.png",
+      "featured": true,
+      "description": "Close"
+    }
+  ],
+  "promotions": [
+    {
+      "id": 0,
+      "name": "Cafe Dao",
+      "image": "images/cafe-info.jpg",
+      "featured": true,
+      "description": "Cafe Dao is the product of the merging of ideas and family support. Chieu Le, the founder, came to America and settled in San Jose, CA in 1980. He began taking adult education classes to study English and frequently bought food from a catering truck before and after class. Seeing the potential of a portable food service vehicle, Chieu Le worked on a catering truck to better understand the business. By 1981, he bought his first catering truck and started his route around San Jose. "
+    }
+  ],
+  "feedback": [
+    {
+      "id": 0,
+      "firstname": "Test",
+      "lastname": "Test",
+      "telnum": "12345",
+      "email": "test@test.com",
+      "agree": true,
+      "contactType": "Email",
+      "message": "test",
+      "date": "2019-10-25T13:30Z"
+    }
+  ]
+}
